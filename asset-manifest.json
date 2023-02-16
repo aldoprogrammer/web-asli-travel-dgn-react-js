@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portofolio-aldo-dgn-react-js/static/css/main.06c990d5.css",
+    "main.js": "/portofolio-aldo-dgn-react-js/static/js/main.472fd9c6.js",
+    "static/media/9.jpg": "/portofolio-aldo-dgn-react-js/static/media/9.693fcb2f07fe31638d38.jpg",
+    "static/media/2.jpg": "/portofolio-aldo-dgn-react-js/static/media/2.b3d8d0435d3a3644c9d4.jpg",
+    "static/media/5.jpg": "/portofolio-aldo-dgn-react-js/static/media/5.ddca3aa248649e2dfd83.jpg",
+    "static/media/3.jpg": "/portofolio-aldo-dgn-react-js/static/media/3.dcabd9acd43f1cf8eed8.jpg",
+    "static/media/7.jpg": "/portofolio-aldo-dgn-react-js/static/media/7.5366c3a067d8fc4825aa.jpg",
+    "static/media/1.jpg": "/portofolio-aldo-dgn-react-js/static/media/1.a2f4597ea47905abc70c.jpg",
+    "static/media/8.jpg": "/portofolio-aldo-dgn-react-js/static/media/8.a81e9b5ddfff0be8ba3f.jpg",
+    "static/media/4.jpg": "/portofolio-aldo-dgn-react-js/static/media/4.3cadf1588203f6f2c035.jpg",
+    "static/media/6.jpg": "/portofolio-aldo-dgn-react-js/static/media/6.7ddf709e326429411583.jpg",
+    "index.html": "/portofolio-aldo-dgn-react-js/index.html",
+    "main.06c990d5.css.map": "/portofolio-aldo-dgn-react-js/static/css/main.06c990d5.css.map",
+    "main.472fd9c6.js.map": "/portofolio-aldo-dgn-react-js/static/js/main.472fd9c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06c990d5.css",
+    "static/js/main.472fd9c6.js"
+  ]
+}
