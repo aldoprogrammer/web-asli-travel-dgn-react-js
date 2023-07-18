@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). This is sicha great repo. You can find it oit that the travel website.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). This is sicha great repo. You can find it oit that the travel website. so then it can be used for your prpject
 
 ## Available Scripts
 
